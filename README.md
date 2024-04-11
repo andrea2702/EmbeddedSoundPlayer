@@ -11,7 +11,9 @@ The repository contains two folders:
 
 ## Demo
 
-A video demonstration of the project is available [here](https://www.youtube.com/watch?v=Ow90lmI1I0Y).
+A video demonstration of the project is available:
+
+[![Demo del Proyecto](http://img.youtube.com/vi/Ow90lmI1I0Y/0.jpg)](https://www.youtube.com/watch?v=Ow90lmI1I0Y)
 
 ## Usage
 1. Connect the LCD and the keyboard.
